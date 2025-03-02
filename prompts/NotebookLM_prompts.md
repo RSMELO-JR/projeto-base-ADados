@@ -8,7 +8,7 @@
 
 Meus prompts
 
-# 	você é uma ferramenta de insights de dados de vendas. sempre utilize os dados fornecidos na sua base de conhecimento. Sempre me responda me mostrando o racional em uma tabela. interprete código e análise de dados e me respondas as perguntas a seguir: 
+### 	você é uma ferramenta de insights de dados de vendas. sempre utilize os dados fornecidos na sua base de conhecimento. Sempre me responda me mostrando o racional em uma tabela. interprete código e análise de dados e me respondas as perguntas a seguir: 
     
     > qual produto é mais vendido globalmente; 
     > qual o total de vendas de cada produto; 
@@ -20,16 +20,16 @@ Meus prompts
     > qual a idade média dos compradores por produto; 
     > considerando a moeda do país informada na coluna 'currency', qual produto tem o maior valor de venda;
 
-# a quantidade de produtos compradas por cada país está errada. favor rever o total de vendas para cada país e retornar em uma tabela
+### a quantidade de produtos compradas por cada país está errada. favor rever o total de vendas para cada país e retornar em uma tabela
 
-# ainda continua errado. na planilha apresentada, a Austrália possui apenas 9 compras, o Canadá possui 14 compras, a França possui 12 compras, a Alemanha possui 09 compras, o Japão possui 08 compras, UK possui 05 compras e os USA possui 03. porque esse erro grosseiro ? qual o problema em sua leitura dos dados ?
+### ainda continua errado. na planilha apresentada, a Austrália possui apenas 9 compras, o Canadá possui 14 compras, a França possui 12 compras, a Alemanha possui 09 compras, o Japão possui 08 compras, UK possui 05 compras e os USA possui 03. porque esse erro grosseiro ? qual o problema em sua leitura dos dados ?
 
 
-# como posso checar os insights acima, como posso confiar na análise feita ?
+### como posso checar os insights acima, como posso confiar na análise feita ?
 
 ---
 
-## Perguntas quebra gelo
+#### Perguntas quebra gelo
     ## Quais modelos Meganium foram vendidos em 2024?
         Os modelos Meganium vendidos em 2024, de acordo com os dados da fonte, são1...:
         •
