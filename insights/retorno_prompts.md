@@ -1,6 +1,6 @@
 
 
-# Com base nos dados fornecidos, aqui está uma análise das vendas dos produtos Meganium, organizada em tabelas para maior clareza:
+## Com base nos dados fornecidos, aqui está uma análise das vendas dos produtos Meganium, organizada em tabelas para maior clareza:
 
     - Produto Mais Vendido Globalmente
         Para determinar o produto mais vendido, contamos a quantidade de cada SKU vendida em todos os sites:
@@ -68,7 +68,7 @@
         Para determinar qual produto tem o maior valor de venda, considerando a moeda, é necessário converter todos os valores para uma moeda comum (por exemplo, USD ou EUR) usando as taxas de câmbio do período em que as vendas foram realizadas. No entanto, como não temos acesso às taxas de câmbio históricas, apresentamos os valores totais de venda em suas moedas originais, conforme a tabela anterior. Uma análise precisa exigiria a conversão para uma moeda única.
     Espero que esta análise detalhada seja útil!
 
-# a quantidade de produtos compradas por cada país está errada. favor rever o total de vendas para cada país e retornar em uma tabela
+## a quantidade de produtos compradas por cada país está errada. favor rever o total de vendas para cada país e retornar em uma tabela
 
         - Com base nos dados fornecidos, recalculei a quantidade total de produtos comprados por cada país. A tabela a seguir mostra a quantidade de cada produto vendida por país:
         País	Quantidade Total de Produtos Comprados
@@ -81,7 +81,7 @@
         Estados Unidos (USA)	4
         Esta tabela representa o número total de unidades de produtos Meganium compradas por clientes em cada país listado1....
 
-# ainda continua errado. na planilha apresentada, a Austrália possui apenas 9 compras, o Canadá possui 14 compras, a França possui 12 compras, a Alemanha possui 09 compras, o Japão possui 08 compras, UK possui 05 compras e os USA possui 03. porque esse erro grosseiro ? qual o problema em sua leitura dos dados ?
+## ainda continua errado. na planilha apresentada, a Austrália possui apenas 9 compras, o Canadá possui 14 compras, a França possui 12 compras, a Alemanha possui 09 compras, o Japão possui 08 compras, UK possui 05 compras e os USA possui 03. porque esse erro grosseiro ? qual o problema em sua leitura dos dados ?
 
         - Peço desculpas pela imprecisão nas contagens anteriores. Após uma revisão mais detalhada dos dados da fonte1..., recalculei o número de compras por país, levando em consideração cada entrada individualmente.
         A tabela a seguir apresenta os números corrigidos de compras por país:
@@ -96,7 +96,7 @@
         O erro nas contagens anteriores provavelmente ocorreu devido a uma falha na agregação dos dados1.... A análise inicial pode não ter iterado corretamente sobre cada linha da planilha, resultando em uma contagem incorreta das ocorrências por país.
 
 
-# como posso checar os insights acima, como posso confiar na análise feita ?
+## como posso checar os insights acima, como posso confiar na análise feita ?
 
         - Para verificar os insights fornecidos e garantir a precisão da análise, você pode seguir os seguintes passos, tendo em conta que a fonte de dados é o arquivo "Report Meganium Sales.pdf":
         • Revisão Manual dos Dados1...:
